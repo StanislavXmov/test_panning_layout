@@ -11,21 +11,21 @@ const colorLighter = '#b9ea69';
 const colorLightest = '#c7ef88';
 
 const imagesProps = [
-  {src: './public/Frame 40.png', alt: 'work', color: colorDarkest},
-  {src: './public/Frame 41.png', alt: 'normal', color: colorLightest},
-  {src: './public/Frame 42.png', alt: 'sad', color: colorLighter},
-  {src: './public/Frame 43.png', alt: 'hehe', color: colorDarker},
-  {src: './public/Frame 44.png', alt: 'clown', color: colorLight},
-  {src: './public/Frame 45.png', alt: 'what', color: colorDarkest},
-  {src: './public/Frame 46.png', alt: 'little_sad', color: colorLighter},
-  {src: './public/Frame 47.png', alt: 'anger', color: colorDarkest},
-  {src: './public/Frame 55.png', alt: 'nice', color: colorDarker},
-  {src: './public/Frame 62.png', alt: 'fck_you', color: colorDarkest},
-  {src: './public/Frame 40.png', alt: 'work', color: colorLight},
-  {src: './public/Frame 41.png', alt: 'normal', color: colorLightest},
-  {src: './public/Frame 42.png', alt: 'sad', color: colorDarker},
-  {src: './public/Frame 43.png', alt: 'hehe', color: colorDarkest},
-  {src: './public/Frame 44.png', alt: 'clown', color: colorLight},
+  {src: './Frame40.png', alt: 'work', color: colorDarkest},
+  {src: './Frame41.png', alt: 'normal', color: colorLightest},
+  {src: './Frame42.png', alt: 'sad', color: colorLighter},
+  {src: './Frame43.png', alt: 'hehe', color: colorDarker},
+  {src: './Frame44.png', alt: 'clown', color: colorLight},
+  {src: './Frame45.png', alt: 'what', color: colorDarkest},
+  {src: './Frame46.png', alt: 'little_sad', color: colorLighter},
+  {src: './Frame47.png', alt: 'anger', color: colorDarkest},
+  {src: './Frame55.png', alt: 'nice', color: colorDarker},
+  {src: './Frame62.png', alt: 'fck_you', color: colorDarkest},
+  {src: './Frame40.png', alt: 'work', color: colorLight},
+  {src: './Frame41.png', alt: 'normal', color: colorLightest},
+  {src: './Frame42.png', alt: 'sad', color: colorDarker},
+  {src: './Frame43.png', alt: 'hehe', color: colorDarkest},
+  {src: './Frame44.png', alt: 'clown', color: colorLight},
 ];
 
 interface ImagesBlockProps {
